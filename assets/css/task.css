@@ -1,0 +1,35 @@
+#tasks{
+	display: inline-block;
+	font-size: 20px;
+}
+
+#add_tasks{
+	display: inline-block;
+	font-size: 20px;
+}
+
+.task{
+	background-color: rgb(200,200,200);
+	margin-top: 5px;
+	padding: 10px;
+}
+
+.task a{
+	padding-right: 20px;
+}
+
+.task .task_name{
+	margin-left: 20px;
+}
+
+#update_button{
+	margin-top: 5px;
+}
+
+.task .textarea_task{
+	margin-left: 20px;
+}
+
+.gray{
+	color: rgb(150,150,150);
+}
